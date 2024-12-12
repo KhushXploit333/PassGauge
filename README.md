@@ -17,7 +17,7 @@ How to Use:
 1.Clone the Repository:
             ````Bash
 
-         git clone https://github.com/your_username/PassMeter.git
+         git clone https://github.com/Thencrypt-K3/PassGauge.git
 
 2.Install Dependencies: Ensure you have Node.js and npm installed. Then, run:
    npm install
