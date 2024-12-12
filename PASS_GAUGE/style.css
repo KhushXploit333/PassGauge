@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#password {
+    width: 50%;
+    height: 30px;
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#strength-indicator {
+    width: 50%;
+    height: 20px;
+    background-color: #ccc;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#feedback {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.weak {
+    background-color: #ff0000;
+    color: #fff;
+}
+
+.medium {
+    background-color: #ffff00;
+    color: #000;
+}
+
+.strong {
+    background-color: #00ff00;
+    color: #fff;
+}
+
+#regex-animation {
+    margin-top: 20px;
+}
+
+#regex-animation div {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #ccc;
+    margin: 5px;
+    display: inline-block;
+}
+
+#regex-animation div.active {
+    background-color: #00ff00;
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
