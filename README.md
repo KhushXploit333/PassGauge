@@ -1,6 +1,7 @@
 # PassGauge
-A robust password strength meter to enhance security!! ##PASSGUAGE##    ______Prodigy_CS_03_____
-PassGuage : Your Password Security Guardian
+PassGuage : Your Password Security Guardian!!!
+! ##PASSGUAGE##    ______Prodigy_CS_03_____
+A robust password strength meter to enhance security!! 
 
 # Introduction
 PassMeter is a web-based tool designed to assess the strength of passwords. It provides real-time feedback to users, helping them create strong, secure passwords.
