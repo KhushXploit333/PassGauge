@@ -1,7 +1,7 @@
 # PassGauge
 PassGuage : Your Password Security Guardian!!!
-! ##PASSGUAGE##    ______Prodigy_CS_03_____
-A robust password strength meter to enhance security!! 
+! ##PASSGUAGE##   
+__A robust password strength meter to enhance security!!__
 
 # Introduction
 PassMeter is a web-based tool designed to assess the strength of passwords. It provides real-time feedback to users, helping them create strong, secure passwords.
@@ -17,7 +17,7 @@ How to Use:
 1.Clone the Repository:
             ````Bash
 
-         git clone https://github.com/Thencrypt-K3/PassGauge.git
+         git clone https://github.com/KhushXploit333/PassGauge.git
 
 2.Install Dependencies: Ensure you have Node.js and npm installed. Then, run:
    npm install
